@@ -1,10 +1,3 @@
-
-a=list(map(int,input().split(",")))
-arr=[]
+a=input("Enter Your String : ").split()
 for i in a:
-    if i>=35:
-        arr.append("Pass")
-    else:
-        arr.append("Fail")
-print(arr)
-print("Finsh")/home/kabilan/Desktop/mohan/an.py
+    print(i[::-1],end=" ")
