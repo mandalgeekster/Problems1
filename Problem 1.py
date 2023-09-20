@@ -1,3 +1,4 @@
+
 a=list(map(int,input().split(",")))
 arr=[]
 for i in a:
@@ -6,4 +7,4 @@ for i in a:
     else:
         arr.append("Fail")
 print(arr)
-print("Finsh")
+print("Finsh")/home/kabilan/Desktop/mohan/an.py
