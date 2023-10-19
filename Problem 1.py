@@ -7,4 +7,4 @@ for i in a:
     else:
         arr.append("Fail")
 print(arr)
-print("Finsh")
+print("success")
