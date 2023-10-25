@@ -1,8 +1,8 @@
 
-a=list(map(int,input().split(",")))
+x=list(map(int,input().split(",")))
 arr=[]
-for i in a:
-    if i>=30:
+for i in x:
+    if i>=40:
         arr.append("Pass")
     else:
         arr.append("Fail")
