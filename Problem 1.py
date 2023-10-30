@@ -8,3 +8,10 @@ for i in a:
         arr.append("Fail")
 print(arr)
 print("finish")
+
+
+mark=input("Enter the mark")
+if(mark>35):
+    print("pass")
+else:
+    print("fail")
