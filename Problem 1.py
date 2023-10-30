@@ -12,6 +12,6 @@ print("finish")
 
 mark=input("Enter the mark")
 if(mark>35):
-    print("pass")
+    print("ou pass your exam")
 else:
-    print("fail")
+    print("You fail in your exam")
